@@ -1,0 +1,14 @@
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project05_OpenWhisper.AudioTranskript\bin\Debug\net9.0\NetCoreAI.Project05_OpenWhisper.AudioTranskript.exe
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project05_OpenWhisper.AudioTranskript\bin\Debug\net9.0\NetCoreAI.Project05_OpenWhisper.AudioTranskript.deps.json
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project05_OpenWhisper.AudioTranskript\bin\Debug\net9.0\NetCoreAI.Project05_OpenWhisper.AudioTranskript.runtimeconfig.json
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project05_OpenWhisper.AudioTranskript\bin\Debug\net9.0\NetCoreAI.Project05_OpenWhisper.AudioTranskript.dll
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project05_OpenWhisper.AudioTranskript\bin\Debug\net9.0\NetCoreAI.Project05_OpenWhisper.AudioTranskript.pdb
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project05_OpenWhisper.AudioTranskript\obj\Debug\net9.0\NetCoreAI.Project05_OpenWhisper.AudioTranskript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project05_OpenWhisper.AudioTranskript\obj\Debug\net9.0\NetCoreAI.Project05_OpenWhisper.AudioTranskript.AssemblyInfoInputs.cache
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project05_OpenWhisper.AudioTranskript\obj\Debug\net9.0\NetCoreAI.Project05_OpenWhisper.AudioTranskript.AssemblyInfo.cs
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project05_OpenWhisper.AudioTranskript\obj\Debug\net9.0\NetCoreAI.Project05_OpenWhisper.AudioTranskript.csproj.CoreCompileInputs.cache
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project05_OpenWhisper.AudioTranskript\obj\Debug\net9.0\NetCoreAI.Project05_OpenWhisper.AudioTranskript.dll
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project05_OpenWhisper.AudioTranskript\obj\Debug\net9.0\refint\NetCoreAI.Project05_OpenWhisper.AudioTranskript.dll
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project05_OpenWhisper.AudioTranskript\obj\Debug\net9.0\NetCoreAI.Project05_OpenWhisper.AudioTranskript.pdb
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project05_OpenWhisper.AudioTranskript\obj\Debug\net9.0\NetCoreAI.Project05_OpenWhisper.AudioTranskript.genruntimeconfig.cache
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project05_OpenWhisper.AudioTranskript\obj\Debug\net9.0\ref\NetCoreAI.Project05_OpenWhisper.AudioTranskript.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "M665opJGR7o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\safay\\OneDrive\\Masaüstü\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project16_PdfAnalyzeWithOpenAi\\NetCoreAI.Project16_PdfAnalyzeWithOpenAi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\safay\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\safay\\.nuget\\packages\\pdfpig\\0.1.10\\pdfpig.0.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

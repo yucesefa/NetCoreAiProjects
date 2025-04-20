@@ -1,0 +1,15 @@
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss\bin\Debug\net9.0\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss.exe
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss\bin\Debug\net9.0\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss.deps.json
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss\bin\Debug\net9.0\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss.runtimeconfig.json
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss\bin\Debug\net9.0\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss.dll
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss\bin\Debug\net9.0\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss.pdb
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss\obj\Debug\net9.0\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss\obj\Debug\net9.0\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss.AssemblyInfoInputs.cache
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss\obj\Debug\net9.0\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss.AssemblyInfo.cs
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss\obj\Debug\net9.0\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss.csproj.CoreCompileInputs.cache
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss\obj\Debug\net9.0\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss.sourcelink.json
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss\obj\Debug\net9.0\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss.dll
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss\obj\Debug\net9.0\refint\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss.dll
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss\obj\Debug\net9.0\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss.pdb
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss\obj\Debug\net9.0\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss.genruntimeconfig.cache
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss\obj\Debug\net9.0\ref\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss.dll

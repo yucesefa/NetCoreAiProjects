@@ -1,0 +1,14 @@
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project04_OpenAiChat\bin\Debug\net9.0\NetCoreAI.Project04_OpenAiChat.exe
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project04_OpenAiChat\bin\Debug\net9.0\NetCoreAI.Project04_OpenAiChat.deps.json
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project04_OpenAiChat\bin\Debug\net9.0\NetCoreAI.Project04_OpenAiChat.runtimeconfig.json
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project04_OpenAiChat\bin\Debug\net9.0\NetCoreAI.Project04_OpenAiChat.dll
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project04_OpenAiChat\bin\Debug\net9.0\NetCoreAI.Project04_OpenAiChat.pdb
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project04_OpenAiChat\obj\Debug\net9.0\NetCoreAI.Project04_OpenAiChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project04_OpenAiChat\obj\Debug\net9.0\NetCoreAI.Project04_OpenAiChat.AssemblyInfoInputs.cache
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project04_OpenAiChat\obj\Debug\net9.0\NetCoreAI.Project04_OpenAiChat.AssemblyInfo.cs
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project04_OpenAiChat\obj\Debug\net9.0\NetCoreAI.Project04_OpenAiChat.csproj.CoreCompileInputs.cache
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project04_OpenAiChat\obj\Debug\net9.0\NetCoreAI.Project04_OpenAiChat.dll
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project04_OpenAiChat\obj\Debug\net9.0\refint\NetCoreAI.Project04_OpenAiChat.dll
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project04_OpenAiChat\obj\Debug\net9.0\NetCoreAI.Project04_OpenAiChat.pdb
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project04_OpenAiChat\obj\Debug\net9.0\NetCoreAI.Project04_OpenAiChat.genruntimeconfig.cache
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project04_OpenAiChat\obj\Debug\net9.0\ref\NetCoreAI.Project04_OpenAiChat.dll

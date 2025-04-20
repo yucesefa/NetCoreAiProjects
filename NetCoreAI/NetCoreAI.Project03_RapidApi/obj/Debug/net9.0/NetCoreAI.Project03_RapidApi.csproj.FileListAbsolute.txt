@@ -1,0 +1,17 @@
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project03_RapidApi\bin\Debug\net9.0\NetCoreAI.Project03_RapidApi.exe
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project03_RapidApi\bin\Debug\net9.0\NetCoreAI.Project03_RapidApi.deps.json
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project03_RapidApi\bin\Debug\net9.0\NetCoreAI.Project03_RapidApi.runtimeconfig.json
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project03_RapidApi\bin\Debug\net9.0\NetCoreAI.Project03_RapidApi.dll
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project03_RapidApi\bin\Debug\net9.0\NetCoreAI.Project03_RapidApi.pdb
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project03_RapidApi\obj\Debug\net9.0\NetCoreAI.Project03_RapidApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project03_RapidApi\obj\Debug\net9.0\NetCoreAI.Project03_RapidApi.AssemblyInfoInputs.cache
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project03_RapidApi\obj\Debug\net9.0\NetCoreAI.Project03_RapidApi.AssemblyInfo.cs
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project03_RapidApi\obj\Debug\net9.0\NetCoreAI.Project03_RapidApi.csproj.CoreCompileInputs.cache
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project03_RapidApi\obj\Debug\net9.0\NetCoreAI.Project03_RapidApi.dll
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project03_RapidApi\obj\Debug\net9.0\refint\NetCoreAI.Project03_RapidApi.dll
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project03_RapidApi\obj\Debug\net9.0\NetCoreAI.Project03_RapidApi.pdb
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project03_RapidApi\obj\Debug\net9.0\NetCoreAI.Project03_RapidApi.genruntimeconfig.cache
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project03_RapidApi\obj\Debug\net9.0\ref\NetCoreAI.Project03_RapidApi.dll
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project03_RapidApi\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project03_RapidApi\obj\Debug\net9.0\NetCoreAI.Project03_RapidApi.csproj.AssemblyReference.cache
+C:\Users\safay\OneDrive\Masaüstü\dersler\.NetCoreAi\NetCoreAI\NetCoreAI.Project03_RapidApi\obj\Debug\net9.0\NetCoreA.4AB75508.Up2Date

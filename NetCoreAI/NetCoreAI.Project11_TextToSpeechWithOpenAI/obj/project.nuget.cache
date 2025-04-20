@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8uZyWMu0TuQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\safay\\OneDrive\\Masaüstü\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project11_TextToSpeechWithOpenAI\\NetCoreAI.Project11_TextToSpeechWithOpenAI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\safay\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

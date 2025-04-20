@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{140BAB8E-6976-4F64-A387-A5D5FCB766F8}|NetCoreAI.Project09_OpenAITranslate\\NetCoreAI.Project09_OpenAITranslate.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\.netcoreai\\netcoreai\\netcoreai.project09_openaitranslate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140BAB8E-6976-4F64-A387-A5D5FCB766F8}|NetCoreAI.Project09_OpenAITranslate\\NetCoreAI.Project09_OpenAITranslate.csproj|solutionrelative:netcoreai.project09_openaitranslate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA74C7B-3663-4304-8124-F46451581AC5}|NetCoreAI.Project10_TextToSpeech\\NetCoreAI.Project10_TextToSpeech.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\.netcoreai\\netcoreai\\netcoreai.project10_texttospeech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA74C7B-3663-4304-8124-F46451581AC5}|NetCoreAI.Project10_TextToSpeech\\NetCoreAI.Project10_TextToSpeech.csproj|solutionrelative:netcoreai.project10_texttospeech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D22E249-A4E6-4978-92D0-F5D13DA35F58}|NetCoreAI.Project11_TextToSpeechWithOpenAI\\NetCoreAI.Project11_TextToSpeechWithOpenAI.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\.netcoreai\\netcoreai\\netcoreai.project11_texttospeechwithopenai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D22E249-A4E6-4978-92D0-F5D13DA35F58}|NetCoreAI.Project11_TextToSpeechWithOpenAI\\NetCoreAI.Project11_TextToSpeechWithOpenAI.csproj|solutionrelative:netcoreai.project11_texttospeechwithopenai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A019375-D583-4537-B770-6AEE383A6EA8}|NetCoreAI.Project12_SentimentAIApp\\NetCoreAI.Project12_SentimentAIApp.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\.netcoreai\\netcoreai\\netcoreai.project12_sentimentaiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A019375-D583-4537-B770-6AEE383A6EA8}|NetCoreAI.Project12_SentimentAIApp\\NetCoreAI.Project12_SentimentAIApp.csproj|solutionrelative:netcoreai.project12_sentimentaiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA77DE16-BC93-4B3B-8C82-640F17DB711B}|NetCoreAI.Project13_SentimentWithDegreeAIApp\\NetCoreAI.Project13_SentimentWithDegreeAIApp.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\.netcoreai\\netcoreai\\netcoreai.project13_sentimentwithdegreeaiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA77DE16-BC93-4B3B-8C82-640F17DB711B}|NetCoreAI.Project13_SentimentWithDegreeAIApp\\NetCoreAI.Project13_SentimentWithDegreeAIApp.csproj|solutionrelative:netcoreai.project13_sentimentwithdegreeaiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C557E709-013D-4353-854B-5DF7C2521261}|NetCoreAI.Project14_ArticleSummarizeAI\\NetCoreAI.Project14_ArticleSummarizeAI.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\.netcoreai\\netcoreai\\netcoreai.project14_articlesummarizeai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C557E709-013D-4353-854B-5DF7C2521261}|NetCoreAI.Project14_ArticleSummarizeAI\\NetCoreAI.Project14_ArticleSummarizeAI.csproj|solutionrelative:netcoreai.project14_articlesummarizeai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{621B0CFB-EBC3-4F04-AC8F-29D19D7F4B28}|NetCoreAI.Project15_WebScapingWithOpenAiApi\\NetCoreAI.Project15_WebScapingWithOpenAiApi.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\.netcoreai\\netcoreai\\netcoreai.project15_webscapingwithopenaiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{621B0CFB-EBC3-4F04-AC8F-29D19D7F4B28}|NetCoreAI.Project15_WebScapingWithOpenAiApi\\NetCoreAI.Project15_WebScapingWithOpenAiApi.csproj|solutionrelative:netcoreai.project15_webscapingwithopenaiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A95CE0CA-9A6C-44CB-B4F0-BC3AD4670335}|NetCoreAI.Project16_PdfAnalyzeWithOpenAi\\NetCoreAI.Project16_PdfAnalyzeWithOpenAi.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\.netcoreai\\netcoreai\\netcoreai.project16_pdfanalyzewithopenai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A95CE0CA-9A6C-44CB-B4F0-BC3AD4670335}|NetCoreAI.Project16_PdfAnalyzeWithOpenAi\\NetCoreAI.Project16_PdfAnalyzeWithOpenAi.csproj|solutionrelative:netcoreai.project16_pdfanalyzewithopenai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565EF54A-A299-4FCD-99E8-877AFA5A6834}|NetCoreAI.Project17_GoogleCloudVisionImageDetection\\NetCoreAI.Project17_GoogleCloudVisionImageDetection.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\.netcoreai\\netcoreai\\netcoreai.project17_googlecloudvisionimagedetection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565EF54A-A299-4FCD-99E8-877AFA5A6834}|NetCoreAI.Project17_GoogleCloudVisionImageDetection\\NetCoreAI.Project17_GoogleCloudVisionImageDetection.csproj|solutionrelative:netcoreai.project17_googlecloudvisionimagedetection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12806D7F-17C3-413C-98BD-84381237B7FA}|NetCoreAI.Project18_OpenAiNewsSummarizeWithRss\\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\.netcoreai\\netcoreai\\netcoreai.project18_openainewssummarizewithrss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12806D7F-17C3-413C-98BD-84381237B7FA}|NetCoreAI.Project18_OpenAiNewsSummarizeWithRss\\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss.csproj|solutionrelative:netcoreai.project18_openainewssummarizewithrss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193B1671-CA29-449B-9B6F-6370A4320965}|NetCoreAI.Project19_CreateStoryWithAI\\NetCoreAI.Project19_CreateStoryWithAI.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\.netcoreai\\netcoreai\\netcoreai.project19_createstorywithai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193B1671-CA29-449B-9B6F-6370A4320965}|NetCoreAI.Project19_CreateStoryWithAI\\NetCoreAI.Project19_CreateStoryWithAI.csproj|solutionrelative:netcoreai.project19_createstorywithai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F3DF44-EDB3-42B8-86E9-BB80C0625CF5}|NetCoreAI.Project20_RecipeSuggestionWithOpenAi\\NetCoreAI.Project20_RecipeSuggestionWithOpenAi.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\.netcoreai\\netcoreai\\netcoreai.project20_recipesuggestionwithopenai\\models\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F3DF44-EDB3-42B8-86E9-BB80C0625CF5}|NetCoreAI.Project20_RecipeSuggestionWithOpenAi\\NetCoreAI.Project20_RecipeSuggestionWithOpenAi.csproj|solutionrelative:netcoreai.project20_recipesuggestionwithopenai\\models\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F3DF44-EDB3-42B8-86E9-BB80C0625CF5}|NetCoreAI.Project20_RecipeSuggestionWithOpenAi\\NetCoreAI.Project20_RecipeSuggestionWithOpenAi.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\.netcoreai\\netcoreai\\netcoreai.project20_recipesuggestionwithopenai\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F3DF44-EDB3-42B8-86E9-BB80C0625CF5}|NetCoreAI.Project20_RecipeSuggestionWithOpenAi\\NetCoreAI.Project20_RecipeSuggestionWithOpenAi.csproj|solutionrelative:netcoreai.project20_recipesuggestionwithopenai\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F3DF44-EDB3-42B8-86E9-BB80C0625CF5}|NetCoreAI.Project20_RecipeSuggestionWithOpenAi\\NetCoreAI.Project20_RecipeSuggestionWithOpenAi.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\.netcoreai\\netcoreai\\netcoreai.project20_recipesuggestionwithopenai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F3DF44-EDB3-42B8-86E9-BB80C0625CF5}|NetCoreAI.Project20_RecipeSuggestionWithOpenAi\\NetCoreAI.Project20_RecipeSuggestionWithOpenAi.csproj|solutionrelative:netcoreai.project20_recipesuggestionwithopenai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F3DF44-EDB3-42B8-86E9-BB80C0625CF5}|NetCoreAI.Project20_RecipeSuggestionWithOpenAi\\NetCoreAI.Project20_RecipeSuggestionWithOpenAi.csproj|c:\\users\\safay\\onedrive\\masa\u00FCst\u00FC\\dersler\\.netcoreai\\netcoreai\\netcoreai.project20_recipesuggestionwithopenai\\views\\default\\createrecipe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3F3DF44-EDB3-42B8-86E9-BB80C0625CF5}|NetCoreAI.Project20_RecipeSuggestionWithOpenAi\\NetCoreAI.Project20_RecipeSuggestionWithOpenAi.csproj|solutionrelative:netcoreai.project20_recipesuggestionwithopenai\\views\\default\\createrecipe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project09_OpenAITranslate\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project09_OpenAITranslate\\Program.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project09_OpenAITranslate\\Program.cs",
+              "RelativeToolTip": "NetCoreAI.Project09_OpenAITranslate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:35:42.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project10_TextToSpeech\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project10_TextToSpeech\\Program.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project10_TextToSpeech\\Program.cs",
+              "RelativeToolTip": "NetCoreAI.Project10_TextToSpeech\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:35:36.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project11_TextToSpeechWithOpenAI\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project11_TextToSpeechWithOpenAI\\Program.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project11_TextToSpeechWithOpenAI\\Program.cs",
+              "RelativeToolTip": "NetCoreAI.Project11_TextToSpeechWithOpenAI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:35:33.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project12_SentimentAIApp\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project12_SentimentAIApp\\Program.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project12_SentimentAIApp\\Program.cs",
+              "RelativeToolTip": "NetCoreAI.Project12_SentimentAIApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:35:30.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project13_SentimentWithDegreeAIApp\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project13_SentimentWithDegreeAIApp\\Program.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project13_SentimentWithDegreeAIApp\\Program.cs",
+              "RelativeToolTip": "NetCoreAI.Project13_SentimentWithDegreeAIApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:35:27.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project14_ArticleSummarizeAI\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project14_ArticleSummarizeAI\\Program.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project14_ArticleSummarizeAI\\Program.cs",
+              "RelativeToolTip": "NetCoreAI.Project14_ArticleSummarizeAI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:35:21.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project15_WebScapingWithOpenAiApi\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project15_WebScapingWithOpenAiApi\\Program.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project15_WebScapingWithOpenAiApi\\Program.cs",
+              "RelativeToolTip": "NetCoreAI.Project15_WebScapingWithOpenAiApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:35:16.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project16_PdfAnalyzeWithOpenAi\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project16_PdfAnalyzeWithOpenAi\\Program.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project16_PdfAnalyzeWithOpenAi\\Program.cs",
+              "RelativeToolTip": "NetCoreAI.Project16_PdfAnalyzeWithOpenAi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:35:03.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project17_GoogleCloudVisionImageDetection\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project17_GoogleCloudVisionImageDetection\\Program.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project17_GoogleCloudVisionImageDetection\\Program.cs",
+              "RelativeToolTip": "NetCoreAI.Project17_GoogleCloudVisionImageDetection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:34:48.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project18_OpenAiNewsSummarizeWithRss\\Program.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project18_OpenAiNewsSummarizeWithRss\\Program.cs",
+              "RelativeToolTip": "NetCoreAI.Project18_OpenAiNewsSummarizeWithRss\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:34:41.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project19_CreateStoryWithAI\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project19_CreateStoryWithAI\\Program.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project19_CreateStoryWithAI\\Program.cs",
+              "RelativeToolTip": "NetCoreAI.Project19_CreateStoryWithAI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:34:37.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project20_RecipeSuggestionWithOpenAi\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project20_RecipeSuggestionWithOpenAi\\Program.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project20_RecipeSuggestionWithOpenAi\\Program.cs",
+              "RelativeToolTip": "NetCoreAI.Project20_RecipeSuggestionWithOpenAi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:24:10.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateRecipe.cshtml",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project20_RecipeSuggestionWithOpenAi\\Views\\Default\\CreateRecipe.cshtml",
+              "RelativeDocumentMoniker": "NetCoreAI.Project20_RecipeSuggestionWithOpenAi\\Views\\Default\\CreateRecipe.cshtml",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project20_RecipeSuggestionWithOpenAi\\Views\\Default\\CreateRecipe.cshtml",
+              "RelativeToolTip": "NetCoreAI.Project20_RecipeSuggestionWithOpenAi\\Views\\Default\\CreateRecipe.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T11:21:54.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project20_RecipeSuggestionWithOpenAi\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project20_RecipeSuggestionWithOpenAi\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project20_RecipeSuggestionWithOpenAi\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "NetCoreAI.Project20_RecipeSuggestionWithOpenAi\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:19:28.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OpenAiService.cs",
+              "DocumentMoniker": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project20_RecipeSuggestionWithOpenAi\\Models\\OpenAiService.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project20_RecipeSuggestionWithOpenAi\\Models\\OpenAiService.cs",
+              "ToolTip": "C:\\Users\\safay\\OneDrive\\Masa\u00FCst\u00FC\\dersler\\.NetCoreAi\\NetCoreAI\\NetCoreAI.Project20_RecipeSuggestionWithOpenAi\\Models\\OpenAiService.cs",
+              "RelativeToolTip": "NetCoreAI.Project20_RecipeSuggestionWithOpenAi\\Models\\OpenAiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:12:50.13Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
